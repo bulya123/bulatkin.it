@@ -102,10 +102,10 @@ code, kbd, pre, samp {
 }
 
 button, input, optgroup, select, textarea {
-  resize: none;
   color: inherit;
   font: inherit;
   margin: 0;
+  resize: none;
 }
 input:focus::placeholder {
   color: transparent
